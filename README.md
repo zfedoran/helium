@@ -7,7 +7,7 @@ FAQ
 
 How do I use this library?
 
-**A:** This library exposes animation content, it is up to you to decide how to use this content. An example is provided (See the ExampleModelClass class).
+**A:** This library exposes animation content, it is up to you to decide how to use this content. An example is provided (See the [ExampleModelClass](https://github.com/zfedoran/Helium-Animation-Library/blob/master/helium/helium/examplemodel.cs)).
 
 	
 What types of animations does the library support?
