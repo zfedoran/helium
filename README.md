@@ -1,6 +1,8 @@
 Helium Animation Library
 ========================
-The goal of this library is to allow programmers to easily animate their models in any way they desire. The XNA framework makes many parts of game development comfortable, however, the XNA team has decided to exclude an animation framework in their API. Furthermore, the XNA Model class makes it a pain to access vertex and bone data. 
+The goal of this library is to allow programmers to easily animate their models in any way they desire. The XNA framework makes many parts of game development comfortable, however, the XNA team has decided to exclude an animation framework in their API. Furthermore, the XNA Model class makes it a pain to access vertex and bone data.
+
+Please have a look at the primary [source code](https://github.com/zfedoran/Helium-Animation-Library/tree/master/helium/helium/animation) directory if you have any questions.
 
 FAQ
 ===
