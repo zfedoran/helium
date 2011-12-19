@@ -26,4 +26,4 @@ What are the features of the library?
 * Allows manual setting of bone transforms
 * Framework for custom content pipleine animation and model processing
 * Allows use of custom .fx effects
-* Based on the animation system found in OGRE3d
+* Based on the animation system found in [Ogre3d](http://www.ogre3d.org/)
