@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helium", "helium\helium\helium.csproj", "{36F44467-DBE1-4385-AD6B-437DF667FB09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helium.content", "helium\heliumContent\helium.content.contentproj", "{50EAE873-417D-4D66-852F-DF62E01B0130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helium.contentPipelineExtension", "helium\heliumContentPipelineExtension\helium.contentPipelineExtension.csproj", "{8637A075-C620-48F4-8F3C-166A45CDBA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helium.serializableContent", "helium\heliumSerializableContent\helium.serializableContent.csproj", "{22536075-F742-4334-A120-33DF042A3B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F44467-DBE1-4385-AD6B-437DF667FB09}.Debug|x86.ActiveCfg = Debug|x86
+		{36F44467-DBE1-4385-AD6B-437DF667FB09}.Debug|x86.Build.0 = Debug|x86
+		{36F44467-DBE1-4385-AD6B-437DF667FB09}.Release|x86.ActiveCfg = Release|x86
+		{36F44467-DBE1-4385-AD6B-437DF667FB09}.Release|x86.Build.0 = Release|x86
+		{50EAE873-417D-4D66-852F-DF62E01B0130}.Debug|x86.ActiveCfg = Debug|x86
+		{50EAE873-417D-4D66-852F-DF62E01B0130}.Release|x86.ActiveCfg = Release|x86
+		{8637A075-C620-48F4-8F3C-166A45CDBA71}.Debug|x86.ActiveCfg = Debug|x86
+		{8637A075-C620-48F4-8F3C-166A45CDBA71}.Debug|x86.Build.0 = Debug|x86
+		{8637A075-C620-48F4-8F3C-166A45CDBA71}.Release|x86.ActiveCfg = Debug|x86
+		{8637A075-C620-48F4-8F3C-166A45CDBA71}.Release|x86.Build.0 = Debug|x86
+		{22536075-F742-4334-A120-33DF042A3B85}.Debug|x86.ActiveCfg = Debug|x86
+		{22536075-F742-4334-A120-33DF042A3B85}.Debug|x86.Build.0 = Debug|x86
+		{22536075-F742-4334-A120-33DF042A3B85}.Release|x86.ActiveCfg = Release|x86
+		{22536075-F742-4334-A120-33DF042A3B85}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
