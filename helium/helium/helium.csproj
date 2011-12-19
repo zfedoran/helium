@@ -118,13 +118,10 @@
     <Compile Include="animation\vertex.cs" />
     <Compile Include="application.cs" />
     <Compile Include="core\camera.cs" />
-    <Compile Include="graphics\primitivebatch.cs" />
-    <Compile Include="graphics\textureregion.cs" />
-    <Compile Include="graphics\vertex.cs" />
+    <Compile Include="examplemodel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="resources\modelprocessor.cs" />
     <Compile Include="resources\resourcelibrary.cs" />
-    <Compile Include="scene\mode.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.ico" />
