@@ -7,12 +7,12 @@ FAQ
 
 How do I use this library?
 
-	A: This library exposes animation content, it is up to you to decide how to use this content. An example is provided (See the ExampleModelClass class).
+**A:** This library exposes animation content, it is up to you to decide how to use this content. An example is provided (See the ExampleModelClass class).
 
 	
 What types of animations does the library support?
 
-	A: The library supports skinned and unskinned bone animations, and mesh hierarchy animations.
+**A:** The library supports skinned and unskinned bone animations, and mesh hierarchy animations.
  
  
 What are the features of the library?
