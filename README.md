@@ -2,7 +2,9 @@ Helium Animation Library
 ========================
 The goal of this library is to allow programmers to easily animate their models in any way they desire. The XNA framework makes many parts of game development comfortable, however, the XNA team has decided to exclude an animation framework in their API. Furthermore, the XNA Model class makes it a pain to access vertex and bone data. The Helium library is faster and supports more features than the XNA skinned model [sample](http://create.msdn.com/en-US/education/catalog/sample/skinned_model). 
 
-<img src="https://github.com/zfedoran/helium/raw/master/screenshot.png">
+<a href="http://www.youtube.com/watch?v=JGUQkWK6s1E"><img src="https://github.com/zfedoran/helium/raw/master/screenshot.png"></a>
+
+Check out the <a href="http://www.youtube.com/watch?v=JGUQkWK6s1E">demo video</a>
 
 Please have a look at the primary [source code](https://github.com/zfedoran/helium/tree/master/helium/helium/animation) directory if you have any questions.
 
